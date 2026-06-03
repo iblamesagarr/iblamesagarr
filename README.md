@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+AI+Developer;MCA+Student+%40+KIIT+%2F+IGNOU;Building+Cool+Stuff+with+Python+%26+Kotlin;Open+to+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+AI+Developer;MCA+Student+%40+KIIT;Building+Cool+Stuff+with+Python+%26+Kotlin;Open+to+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,12 +16,12 @@
 
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎓 &nbsp; Pursuing **MCA** — Master of Computer Applications
+- 🎓 &nbsp; Pursuing **MCA** - Master of Computer Applications
 - 📍 &nbsp; Based in **Bhubaneswar, India**
 - 🤖 &nbsp; Passionate about **AI/ML**, **Computer Vision** & **Android Development**
 - 🌱 &nbsp; Currently sharpening skills in **Python**, **Kotlin** & **Deep Learning**
 - 💡 &nbsp; I love building real-world projects that solve real problems
-- 🔗 &nbsp; Find me on [Linktree](https://linktr.ee/fifty_megapixel) · [Instagram](https://instagram.com/fifty_megapixel) · [Google Dev](https://g.dev/d3f1ult)
+- 🔗 &nbsp; Find me on [Linktree](https://linktr.ee/fifty_megapixel) · [Instagram](https://instagram.com/sagarxded) · [Google Dev](https://g.dev/d3f1ult)
 - 💬 &nbsp; Ask me about **Python**, **OpenCV**, **Android** or anything tech!
 - ⚡ &nbsp; Fun fact: I debug code better at night ☕🌙
 
@@ -74,7 +74,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Calc — iPhone UI Android Calculator</h3>
+      <h3>📱 Calc - iPhone UI Android Calculator</h3>
       <p>
         An Android calculator app built with <strong>Kotlin</strong> that faithfully recreates the clean and minimal aesthetic of the iPhone's native calculator — brought to Android users with smooth UX and gesture handling.
       </p>
@@ -119,29 +119,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iblamesagarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamesagarr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+![Sagar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iblamesagarr&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iblamesagarr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iblamesagarr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+| 🔢 Total Repos | ⭐ Focus Areas | 🛠️ Primary Stack | 📍 Location |
+|:-:|:-:|:-:|:-:|
+| 6 Public Repos | AI · Android · Web | Python · Kotlin · HTML | Bhubaneswar, India |
 
 </div>
 
