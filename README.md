@@ -14,21 +14,18 @@
 
 ## 🧑‍💻 About Me
 
-```python
-sagar = {
-    "name"        : "Sagar",
-    "username"    : "iblamesagarr",
-    "degree"      : "MCA (Master of Computer Applications)",
-    "location"    : "Bhubaneswar, India 🇮🇳",
-    "interests"   : ["AI/ML", "Android Dev", "Web Dev", "Computer Vision"],
-    "currently"   : "Building projects & levelling up every day 🔥",
-    "links"       : {
-        "linktree" : "https://linktr.ee/fifty_megapixel",
-        "instagram": "https://instagram.com/fifty_megapixel",
-        "google_dev": "https://g.dev/d3f1ult"
-    }
-}
-```
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+- 🎓 &nbsp; Pursuing **MCA** — Master of Computer Applications
+- 📍 &nbsp; Based in **Bhubaneswar, India**
+- 🤖 &nbsp; Passionate about **AI/ML**, **Computer Vision** & **Android Development**
+- 🌱 &nbsp; Currently sharpening skills in **Python**, **Kotlin** & **Deep Learning**
+- 💡 &nbsp; I love building real-world projects that solve real problems
+- 🔗 &nbsp; Find me on [Linktree](https://linktr.ee/fifty_megapixel) · [Instagram](https://instagram.com/fifty_megapixel) · [Google Dev](https://g.dev/d3f1ult)
+- 💬 &nbsp; Ask me about **Python**, **OpenCV**, **Android** or anything tech!
+- ⚡ &nbsp; Fun fact: I debug code better at night ☕🌙
+
+<br clear="right"/>
 
 ---
 
