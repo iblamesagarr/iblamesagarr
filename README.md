@@ -123,13 +123,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iblamesagarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iblamesagarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamesagarr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamesagarr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
-<br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iblamesagarr&theme=tokyonight&hide_border=true" height="160"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=iblamesagarr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
 
 </div>
 
@@ -139,7 +141,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iblamesagarr&theme=tokyonight&column=6&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=iblamesagarr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
 
 </div>
 
