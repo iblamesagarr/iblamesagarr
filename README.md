@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=200&section=header&text=Hey,%20I'm%20Sagar%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20Creative%20Technologist&descAlignY=60&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=220&section=header&text=Hey,%20I'm%20Sagar%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%7C%20AI-Native%20Engineer%20%7C%20Creative%20Builder&descAlignY=60&descSize=19" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Full-Stack+%26+AI-Native+Engineer;Creator+of+StudioFlow+Platform;Next.js+14%2C+TypeScript%2C+Prisma+%26+Claude+AI;Computer+Vision%2C+Python+%26+Android+Engineering;Open+for+High-Impact+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+%26+AI-Native+Engineer;Creator+of+StudioFlow+Platform;Building+with+Next.js+14%2C+TypeScript%2C+Python+%26+Claude+AI;Computer+Vision%2C+OpenCV+%26+Android+Engineering;MCA+Student+%40+KIIT;Open+for+High-Impact+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://sagarxded.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sagarxded.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://instagram.com/sagarxded"><img src="https://img.shields.io/badge/Instagram-@sagarxded-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://wa.me/918240620929"><img src="https://img.shields.io/badge/WhatsApp-+91_82406_20929-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://linktr.ee/fifty_megapixel"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://g.dev/d3f1ult"><img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
   <a href="https://github.com/iblamesagarr"><img src="https://img.shields.io/badge/GitHub-iblamesagarr-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -21,9 +23,9 @@
 
 - 🎓 &nbsp; Pursuing **MCA** - Master of Computer Applications
 - 📍 &nbsp; Based in **Bhubaneswar & Kolkata, India**
-- 🤖 &nbsp; Passionate about **AI-Native Web Apps**, **Claude API Orchestration**, **Computer Vision** & **Android Engineering**
+- 🤖 &nbsp; Passionate about **AI/ML**, **Next.js Full-Stack Apps**, **Computer Vision** & **Android Engineering**
 - 🌱 &nbsp; Specialized in **Next.js 14**, **TypeScript**, **Python**, **Claude 3.5 Sonnet**, **Prisma**, and **Kotlin**
-- 💡 &nbsp; Creator of **[StudioFlow](https://github.com/iblamesagarr/studioflow)** — Multi-tenant studio operations engine live on Vercel
+- 💡 &nbsp; Creator of **[StudioFlow](https://github.com/iblamesagarr/studioflow)** — Multi-tenant studio operations platform live on Vercel
 - 🔗 &nbsp; Connect on [Portfolio](https://sagarxded.vercel.app) · [Instagram](https://instagram.com/sagarxded) · [Linktree](https://linktr.ee/fifty_megapixel) · [Google Dev](https://g.dev/d3f1ult)
 - 💬 &nbsp; Ask me about **Next.js**, **Anthropic Claude**, **Python/OpenCV**, or **System Design**!
 - ⚡ &nbsp; Fun fact: I debug code best at 2 AM with a cup of coffee ☕🌙
@@ -36,23 +38,24 @@
 
 <div align="center">
 
-### 🌐 Frontend & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🌐 Frontend & Core Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI, Backend & Mobile
+### 🤖 AI, Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_3.5_Sonnet-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ☁️ Cloud, Databases & DevOps
+### ☁️ Cloud, Databases & Dev Tools
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,6 +63,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
@@ -69,9 +74,9 @@
 
 <div align="center">
 
-### ⚡ [StudioFlow — AI-Native Client Pipeline & Studio Ops Platform](https://github.com/iblamesagarr/studioflow)
+### ⚡ [StudioFlow — AI-Native Client Pipeline & Multi-Tenant Studio Ops Platform](https://github.com/iblamesagarr/studioflow)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-studioflow--indol--gamma.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studioflow-indol-gamma.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Production-studioflow--indol--gamma.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studioflow-indol-gamma.vercel.app)
 [![Tech Stack](https://img.shields.io/badge/Next.js_14_•_TypeScript_•_Prisma_•_Claude_3.5_•_Tailwind-3178C6?style=for-the-badge)](https://github.com/iblamesagarr/studioflow)
 
 <p align="center">
@@ -82,7 +87,77 @@
 
 ---
 
-## 🔄 Latest & Active Repositories *(Auto-Updated Daily via GitHub Actions)*
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ StudioFlow — Studio Ops Platform</h3>
+      <p>
+        Full-stack AI-assisted multi-tenant operations engine with Claude 3.5 Sonnet lead scoring, Kanban pipeline, expiring S3 vaults, and automated GST billing.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+      </p>
+      <a href="https://github.com/iblamesagarr/studioflow">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://studioflow-indol-gamma.vercel.app">
+        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Face Recognition Attendance System</h3>
+      <p>
+        A Python-based desktop app using <strong>OpenCV + Haar Cascades</strong> for real-time face detection and recognition to automate student attendance with <strong>MySQL</strong> backend.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/iblamesagarr/AI-Based-Face-Recognition-System-for-Student-Attendance">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 ResumeIQ — AI Job Matching Portal</h3>
+      <p>
+        AI-powered resume analysis and India job matching portal. Upload your CV to extract ATS scores, match job postings, and identify skill gaps.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
+      <a href="https://github.com/iblamesagarr/ResumeIQ">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Calc — iPhone UI Android Calculator</h3>
+      <p>
+        An Android calculator app built with <strong>Kotlin</strong> that faithfully recreates the clean and minimal aesthetic of the iPhone's native calculator with smooth gesture UX.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
+      <a href="https://github.com/iblamesagarr/Calc---An-iPhone-s-UI-based-Android-Calculator-App">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔄 Latest Repositories *(Auto-Updated Daily)*
 
 <!-- RECENT_REPOS:START -->
 <table>
@@ -168,7 +243,7 @@
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Live Interactive Pinned Cards
 
 <div align="center">
   <a href="https://github.com/iblamesagarr/studioflow">
